@@ -1,8 +1,10 @@
 import styles from '../../styles/HeroLanding.module.css'
 
 
-export default function Article() {
-    return <div className={styles.main}>
+export default function Hero() {
+    return (
+    
+    <div className={styles.main}>
         
         <main >
         
@@ -16,6 +18,7 @@ export default function Article() {
 
         
         </div>
+    )
   }
   
   

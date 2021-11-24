@@ -3,6 +3,7 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import Navbar from "../component/Landing/Navbar";
 import HeroLanding from "../component/Landing/HeroLanding"
+import Profile from '../component/Landing/profile';
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
           </Head>
         <Navbar/>
         <HeroLanding/>
+        <Profile/>
 
       <footer className={styles.footer}>
         <a
