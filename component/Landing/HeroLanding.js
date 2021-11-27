@@ -9,11 +9,15 @@ export default function Hero() {
         <main >
         
         
-        <h1 className="font-mono text-xl text-white mb-10">
-          Welcome to <a href="/article"> Dmqin! </a>
+        <h1 className="font-sans font-bold text-7xl text-white mb-12">
+          WELCOME TO DMQIN 
         </h1>
-
-        
+       <p className="font-mono text-center text-white">Next Js website with tailwind as the css by Desta Imam Muttaqin.</p>
+        <div className="text-center">
+       <button className={styles.Button}   >
+            SIGN UP NOW
+          </button>
+</div>
       </main>
 
         
