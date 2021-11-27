@@ -9,7 +9,7 @@ export default function Hero() {
         <main >
         
         
-        <h1 className={styles.title}>
+        <h1 className="font-mono text-xl text-white mb-10">
           Welcome to <a href="/article"> Dmqin! </a>
         </h1>
 
