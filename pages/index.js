@@ -3,6 +3,7 @@ import Image from 'next/image'
 import Navbar from "../component/Landing/Navbar";
 import HeroLanding from "../component/Landing/HeroLanding"
 import Me from '../component/Landing/Me';
+import Content from '../component/Landing/content';
 
 export default function Home() {
   return (
@@ -16,7 +17,7 @@ export default function Home() {
         <Navbar/>
         <HeroLanding/>
         <Me/>
-
+        {/* <Content/> */}
      
    
     </div>

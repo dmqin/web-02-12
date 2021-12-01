@@ -57,7 +57,7 @@ export const Navbar = () => {
             </Link>
             <Link href='/'>
               <a className='lg:inline-flex lg:w-auto w-full rounded-full py-3 px-6  text-white font-bold items-center justify-center hover:bg-white hover:text-black'>
-                About us
+                About me
               </a>
             </Link>
             <Link href='/'>
