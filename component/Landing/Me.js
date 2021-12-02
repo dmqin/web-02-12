@@ -16,10 +16,12 @@ return(
                         <p className="text-lg leading-relaxed text-justify "> Hi everyone, my name is Desta, you also can call me Dimqin. I am a student and currently studying in a state senior high school in Surakarta, a small city which is located in Central Java, Indonesia. 
                         I have been learning about full-stack web (full stack is a myth btw) since the beginning of 2021 and I learn this because I have an interest in technology. But, I only code in my leisure time. </p>
                         <p className="text-lg mt-6 leading-relaxed text-justify">
-                          Actually this is my own project, not for work nor study, just for fun. I made this website use javascript language with <a > Next Js </a> library and <a>Tailwind </a> CSS framework. I use NEXT JS because It has all the 
-                          functionality you need to create a ready-to-go application. Plus, the documentation is great. Not only that, I also have a plan to add more 
-                          features on this website using database function and simple mini-games such as rock, paper, scissors! Last but not the least, I wanna say thank you too everyone who already read until here and I hope u guys enjoy this website.
-                           That's all I can say and stay tuned  :)
+                        Actually, this is my own project, not for work or study, just for fun. 
+                        I made this website use javascript language with Next Js library and Tailwind CSS framework. 
+                        This website has not finished yet because it only shows the frontend or we can say the design. 
+                        As a result, some of the buttons can not be used for now and I will add more backend features as soon as possible. 
+                        Last but not the least, I wanna say thank you to everyone who already read until here and I hope u guys enjoy this website. 
+                        That's all I can say and stay tuned :)
                         </p>
                     </div>
                    
